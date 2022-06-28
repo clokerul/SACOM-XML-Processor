@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="XMLProcessorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-26T06:35:54" hostname="DESKTOP-5KBMHB9" time="11.062">
+  <properties/>
+  <testcase name="testXmlProcessor()" classname="XMLProcessorTest" time="11.062"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
